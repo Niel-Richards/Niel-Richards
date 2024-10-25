@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niel-Richards
 - 👀 Web developer based in Birmingham, UK
-- 🌱 I’m currently learning React while brushing up on my vanilla JavaScript and Django
+- 🌱 I work mainly with JavaScript and Python with the Django framework
 <!-- 📫 How to reach me ... --->
 
 <!---
